@@ -11,7 +11,7 @@ const EmailSection = () => {
         <h5 className="text-xl font-bold text-white my-0">Let's Connect</h5>
         <p className="text-[#ADB7BE] mb-6 max-w-3xl leading-7 text-center sm:text-justify">
           {" "}
-          I'mm currently looking for new oppurtunities.Whether it's creating responsive user interfaces, implementing back-end functionality, or troubleshooting issues, I'm eager to contribute and learn along the way. So don't hesitate to reach out - I'm ready to dive in and make a positive impact! :)
+          I am currently looking for new oppurtunities.Whether it is creating responsive user interfaces, implementing back-end functionality, or troubleshooting issues, I am eager to contribute and learn along the way. So do not hesitate to reach out - I am ready to dive in and make a positive impact! :)
         </p>
         <div className="socials flex flex-row gap-2">
           <Link href="https://github.com/CodingAesthete">
