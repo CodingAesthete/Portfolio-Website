@@ -40,13 +40,10 @@ export default function HeroSection() {
             experience as an intern in CSoft with C++. In the last year and a half I have
             been mostly focusing on HTML, CSS, JS, jQuery, React and the MERN stack.
           </p>
-          <div>
-            <button className='px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-white hover:bg-slate-300 text-black'>
-              Hire Me
-            </button>
-            <button className='px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-transparent hover:bg-slate-700 text-white border border-white mt-3 border-solid'>
-              Download CV
-            </button>
+          <div className='mt-8'>
+            <a href="#contact" className='px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-white hover:bg-slate-300 text-black'>
+              Message Me
+            </a>
           </div>
         </motion.div>
         <motion.div
