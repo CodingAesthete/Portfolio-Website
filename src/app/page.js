@@ -3,6 +3,7 @@ import HeroSection from "./components/HeroSection";
 import Navbar from "./components/Navbar";
 import AboutSection from "./components/AboutSection";
 import { SpeedInsights } from "@vercel/speed-insights/next"
+import ProjectSection from "./components/ProjectSection";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
       <div className="container mt-6 mx-auto px-12 py-6">
         <HeroSection />
         <AboutSection />
+        <ProjectSection />
       </div>
     </main >
   );
