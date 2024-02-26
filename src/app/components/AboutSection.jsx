@@ -8,7 +8,7 @@ const TAB_DATA = [
     title: "Skills",
     id: "skills",
     content: (
-      <div className="flex flex-row justify-between sm:justify-start gap-8 md:gap-36 xl:ml-2">
+      <div className="flex flex-row justify-between sm:justify-start gap-8 md:gap-24 xl:ml-2">
         <ul className="list-disc pl-2 space-y-1">
           <li>Node.js</li>
           <li>Express</li>
@@ -32,7 +32,7 @@ const TAB_DATA = [
     title: "Soft Skills",
     id: "soft-skills",
     content: (
-      <div className="flex flex-col sm:flex-row justify-between sm:justify-start gap-1 sm:gap-8 md:gap-24 xl:ml-2">
+      <div className="flex flex-col sm:flex-row justify-between sm:justify-start gap-1 sm:gap-8 md:gap-12 xl:ml-2">
         <ul className="list-disc pl-2 space-y-1">
           <li>Critical Thinking</li>
           <li>Eager to Learn</li>
