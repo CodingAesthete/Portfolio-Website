@@ -41,7 +41,7 @@ const projectsData = [
     description: "jQuery Slider Project",
     image: "/images/projects/speedway.png",
     gitUrl: "https://github.com/CodingAesthete/Mern-Estate",
-    previewUrl: "https://mern-estate-rqzp.onrender.com/",
+    previewUrl: "https://speedway-gp.vercel.app/",
   },
   {
     id: 6,
