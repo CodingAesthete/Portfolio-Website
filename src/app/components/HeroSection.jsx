@@ -22,15 +22,13 @@ export default function HeroSection() {
             <TypeAnimation
               sequence={[
                 'Alex',
-                1500,
+                1000,
                 'Web Developer',
-                1500,
-                'Alex',
-                1
+                1000
               ]}
               wrapper="span"
               speed={50}
-              repeat={1}
+              repeat={Infinity}
             />
             <br />
           </h1>

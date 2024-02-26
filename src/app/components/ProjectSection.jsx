@@ -20,7 +20,7 @@ const projectsData = [
   },
   {
     id: 3,
-    title: "Zoo Site",
+    title: "Zoo Website",
     description: "HTML & CSS Project",
     image: "/images/projects/zoo.png",
     gitUrl: "https://github.com/CodingAesthete/Zooland",
@@ -29,7 +29,7 @@ const projectsData = [
   },
   {
     id: 4,
-    title: "Real Estate Site",
+    title: "Real Estate Website",
     description: "MERN Project",
     image: "/images/projects/estate.png",
     gitUrl: "https://github.com/CodingAesthete/Mern-Estate",
