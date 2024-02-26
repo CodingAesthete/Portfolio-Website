@@ -8,7 +8,7 @@ const EmailSection = () => {
   return (
     <section id="contact" className="flex flex-col-reverse md:flex-row-reverse gap-16 my-12 md:my-10 py-10 relative">
       <div className="">
-        <h5 className="text-xl font-bold text-white my-0">Let's Connect</h5>
+        <h5 className="text-xl font-bold text-white my-0">Connect With Me</h5>
         <p className="text-[#ADB7BE] mb-6 max-w-3xl leading-7 text-center sm:text-justify">
           {" "}
           I am currently looking for new oppurtunities.Whether it is creating responsive user interfaces, implementing back-end functionality, or troubleshooting issues, I am eager to contribute and learn along the way. So do not hesitate to reach out - I am ready to dive in and make a positive impact! :)
