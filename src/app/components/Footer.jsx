@@ -13,7 +13,7 @@ const Footer = () => {
             height={50}
             width={50}
           /></span>
-          <span className="text-slate-400">© 2024 Alex</span>
+          <span className="text-slate-400">©2024</span>
         </div>
         <p className="text-slate-500">Rights not reserved.</p>
       </div>
