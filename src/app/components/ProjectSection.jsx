@@ -33,7 +33,7 @@ const projectsData = [
     description: "MERN Project",
     image: "/images/projects/estate.png",
     gitUrl: "https://github.com/CodingAesthete/Mern-Estate",
-    previewUrl: "https://mern-estate-rqzp.onrender.com/",
+    previewUrl: "https://mern-estate-37xy.onrender.com/",
   },
   {
     id: 5,
